@@ -38,6 +38,7 @@ GO
 --
 -- Update history:
 --		23/8/2017 - JDJ: added missing jobs, changed default JobID value to 1000...
+--		04/10/2017- GK : updated the stored procedure to view in version control
 						
 
 -- Calling Arguments:
